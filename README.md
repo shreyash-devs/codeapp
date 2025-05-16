@@ -8,13 +8,13 @@ A cross-platform **Travel Booking App** built with Flutter, designed to make you
 
 ## 🚀 Features
 
-- 🔍 Search and explore hotels, destinations, and travel deals
-- 🛎️ Book hotels and manage your upcoming trips
-- ❤️ Add favorites and save them for quick access
-- 🌙 Fully responsive UI with light and dark mode
-- 🔒 Secure login and authentication using Firebase
-- 🔄 Real-time data syncing via Firestore
-- 🌐 Google Maps integration for location-based experiences
+- 🔍 Search and explore hotels, destinations, and travel deals  
+- 🛎️ Book hotels and manage your upcoming trips  
+- ❤️ Add favorites and save them for quick access  
+- 🌙 Fully responsive UI with light and dark mode  
+- 🔒 Secure login and authentication using Firebase  
+- 🔄 Real-time data syncing via Firestore  
+- 🌐 Google Maps integration for location-based experiences  
 
 ---
 
@@ -25,48 +25,21 @@ A cross-platform **Travel Booking App** built with Flutter, designed to make you
 - **Firebase** – Authentication and Firestore database  
 - **Google Maps API** – For location-based features  
 - **State Management** – Using Riverpod/Provider (customizable)  
-- **Local Storage** – Using Hive or Sqflite (for caching)
+- **Local Storage** – Using Hive or Sqflite (for caching)  
 
 ---
 
-## ⚙️ How to Run
+## 👨‍💻 Author
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/travel-booking-app.git
-   cd travel-booking-app
-Install dependencies
+Made with ❤️ by **Shreyash-devs**  
+A passionate developer who enjoys turning ideas into reality using Flutter, Firebase, and a touch of creativity.
 
-bash
-Copy
-Edit
-flutter pub get
-Firebase Setup
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreyashdubewar)  
+- 📱 [GitHub](https://github.com/shreyash-devs)  
+- ✉️ shreyashdevs.work@gmail.com  
 
-Add your Firebase config files:
+---
 
-google-services.json → android/app/
 
-GoogleService-Info.plist → ios/Runner/
+> Keep building. Keep exploring. The world is just a click away 🌍✨
 
-Enable Firebase Auth and Firestore in your Firebase project
-
-Run the app
-
-bash
-Copy
-Edit
-flutter run
-🌟 Upcoming Features
-✈️ Flight bookings
-
-⭐ Review and rating system
-
-🌍 Multi-language support
-
-🔔 Push notifications
-
-📅 Travel itinerary planner
-
-👨‍💻 Author
-Made with ❤️ by [Your Name]
